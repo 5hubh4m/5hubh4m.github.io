@@ -1,0 +1,63 @@
+entries:
+- name: Gandiva<sub><em>fair</em></sub>
+  url: https://www.microsoft.com/en-us/research/publication/balancing-efficiency-and-fairness-in-heterogeneous-gpu-clusters-for-deep-learning/
+  languages:
+  - Systems for Deep Learning
+  - Scheduling, Fairness
+  description: >-
+    Gandiva<sub><em>fair</em></sub> is a scheduler built on top of Gandiva to
+    provide cluster level fair share of GPU throughput. It also uses differential speedups
+    obtained by different models on heterogeneous GPU architectures and an automatic
+    trading policy based on second-price auctions to improve overall cluster throughput.
+- name: Gandiva
+  url: https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns/
+  languages:
+  - Systems for Deep Learning
+  - Scala
+  - Kubernetes
+  description: >-
+    Gandiva is a Cluster Scheduler for Deep Learning utilising CPU Scheduling-like
+    primitives eg. timeslicing at minute-scales, and migration to schedule GPUs 
+    efficiently by providing coarse-grained GPU sharing across jobs.
+- name: ltdp-viterbi-algorithm
+  url: https://github.com/5hubh4m/ltdp-viterbi-algorithm
+  languages:
+  - C++
+  - Parallel, Dynamic Programming
+  - Viterbi Algorithm
+  description: >-
+    An LTDP parallelisation for the Viterbi algorithm,
+    based on <a href="http://dl.acm.org/citation.cfm?id=3001840.2983553">Maleki et. al</a>.
+- name: traycer-hs
+  url: https://github.com/5hubh4m/traycer-hs
+  languages:
+  - Haskell
+  - Graphics
+  description: >-
+    A ray tracing image rendering system in pure Haskell.
+- name: simple_ra
+  url: https://github.com/5hubh4m/simple_ra
+  languages:
+  - C++
+  - DBMS
+  - Programming Language
+  description: >-
+    An interpreter for the Relational Algebra with
+    it's own relational database management system.
+- name: simple-scheme
+  url: https://github.com/5hubh4m/simple-scheme
+  languages:
+  -  Haskell
+  - Programming Language
+  description: >-
+    A simple Scheme (R5RS) implementation in Haskell.
+- name: publications_portal
+  url: https://github.com/5hubh4m/publications_portal
+  languages:
+  - Python
+  - Django
+  - HTML
+  - CSS
+  - JavaScript
+  description: >-
+    A Publication Portal (IMS) written in Django and Python.

@@ -1,0 +1,12 @@
+title: 5hubh4m
+email: shubhamchaudhary1996@gmail.com
+description: Home
+baseurl: ""
+url: "https://5hubh4m.github.io"
+twitter_username: postmodernKatze
+github_username:  5hubh4m
+theme: no-style-please
+exclude:
+- LICENSE
+- README.md
+- build.sh
