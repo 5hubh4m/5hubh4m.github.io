@@ -2,11 +2,11 @@ entries:
 - title: Balancing Efficiency and Fairness in Heterogeneous GPU Clusters for Deep Learning
   url: https://dl.acm.org/doi/abs/10.1145/3342195.3387555
   authors:
-  - <b>Chaudhary S.</b>
-  - Ramjee R.
-  - Sivathanu M.
-  - Kwatra N.
-  - Viswanatha S.
+  - <b>Shubham Chaudhary</b>
+  - Ramachandran Ramjee
+  - Muthian Sivathanu
+  - Nipun Kwatra
+  - Srinidhi Viswanatha
   venue: Proceedings of the Fifteenth European Conference on Computer Systems
   year: 2020
   alias: EuroSys '20
