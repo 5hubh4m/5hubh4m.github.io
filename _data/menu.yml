@@ -3,7 +3,7 @@ entries:
   url: projects
 - title: publications
   url: publications
-- title: resume
+- title: resume/cv
   url: resume.pdf
   newTab: true
 - title: email

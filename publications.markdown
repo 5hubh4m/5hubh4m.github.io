@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: publications
 title: publications
 ---
 
-{% include publication_item.html collection=site.data.publications.entries %}
+Here are ~~some~~ currently all of my publications.
+
+----

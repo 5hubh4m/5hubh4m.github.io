@@ -9,12 +9,13 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="{{ site.url }}/assets/favicon/site.webmanifest">
     <meta name="theme-color" content="#000000">
-    <meta name="apple-mobile-web-app-status-bar-style" content="#000000"> 
+    <meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+    {% seo %}
     <title>
-        {% if page.title == site.title %}
-            {{ page.title }}
-        {% else %}
+        {% if page.title %}
             {{ site.title }} | {{  page.title }}
+        {% else %}
+            {{ site.title }}
         {% endif %}
     </title>
 </head>

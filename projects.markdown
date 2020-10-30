@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: projects
 title: projects
 ---
 
-{% include project_item.html collection=site.data.projects.entries %}
+Here are some of the projects that I've done in the past.
+
+----

@@ -13,5 +13,7 @@ exclude:
 - Gemfile*
 theme_config:
   appearance: auto
-  back_home_text: home
+  back_home_text: ..
 goat_counter: 5hubh4m
+whitelist:
+- jekyll-seo-tag

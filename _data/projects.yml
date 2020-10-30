@@ -3,7 +3,8 @@ entries:
   url: https://www.microsoft.com/en-us/research/publication/balancing-efficiency-and-fairness-in-heterogeneous-gpu-clusters-for-deep-learning/
   languages:
   - Systems for Deep Learning
-  - Scheduling, Fairness
+  - Scheduling
+  - Fairness
   description: >-
     Gandiva<sub><em>fair</em></sub> is a scheduler built on top of Gandiva to
     provide cluster level fair share of GPU throughput. It also uses differential speedups
@@ -22,7 +23,8 @@ entries:
   url: https://github.com/5hubh4m/ltdp-viterbi-algorithm
   languages:
   - C++
-  - Parallel, Dynamic Programming
+  - Parallel Programming
+  - Dynamic Programming
   - Viterbi Algorithm
   description: >-
     An LTDP parallelisation for the Viterbi algorithm,
@@ -46,7 +48,7 @@ entries:
 - name: simple-scheme
   url: https://github.com/5hubh4m/simple-scheme
   languages:
-  -  Haskell
+  - Haskell
   - Programming Language
   description: >-
     A simple Scheme (R5RS) implementation in Haskell.
