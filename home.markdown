@@ -1,6 +1,7 @@
 ---
 layout: home
 title: home
+permalink: /
 ---
 
 ----
@@ -15,17 +16,17 @@ I'm about to start my PhD at the department of _Computer and Information Science
 
 I am a _Research Fellow_ in the Systems Group[^2] at _Microsoft Research_ working on Project Gandiva[^3].
 
-I did my undergrad at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where i graduated top of my class[^4].
+I completed my undergraduate studies at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where I graduated top of my class[^4].
 
 ----
 {: data-content=" what I've done "}
 
-I have worked with languages like _Scala_, _C_, _C++_, _Haskell_, _Python_, _C#_, _Java_, and technologies like _CUDA_, _Kubernetes_, _Docker_, _Android_, _LaTeX_, _MATLAB_, _*nix_. 
+I have worked with languages like `Scala, C, C++, Haskell, Python, C#, Java`, and technologies like `CUDA, Kubernetes, Docker, Android, LaTeX, MATLAB, *nix`. 
 
 ----
 {: data-content=" what I like other than research "}
 
-In my free time I read Sci-Fi and Fantasy, listen to Trance and House music, and post and read Tweets[^5].
+In my free time I read Sci-Fi and Fantasy, listen to Trance and House[^5] music, and post and read Tweets[^6].
 
 ---
 {: data-content=" footnotes "}
@@ -34,4 +35,5 @@ In my free time I read Sci-Fi and Fantasy, listen to Trance and House music, and
 [^2]: [https://www.microsoft.com/en-us/research/theme/systems](https://www.microsoft.com/en-us/research/theme/systems){:target="_blank", :rel="noopener noreferrer"}
 [^3]: [hhttps://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns](https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns){:target="_blank", :rel="noopener noreferrer"}
 [^4]: [https://iitbhu.ac.in/contents/institute/academics/convocations/doc/medal_recipient_2018.pdf](https://iitbhu.ac.in/contents/institute/academics/convocations/doc/medal_recipient_2018.pdf){:target="_blank", :rel="noopener noreferrer"}
-[^5]: [https://twitter.com/postmodernKatze/status/1210449524751159296?s=20](https://twitter.com/postmodernKatze/status/1210449524751159296?s=20){:target="_blank", :rel="noopener noreferrer"}
+[^5]: [https://twitter.com/postmodernkatze/status/1322211944145678337?s=21](https://twitter.com/postmodernkatze/status/1322211944145678337?s=21){:target="_blank", :rel="noopener noreferrer"}
+[^6]: [https://twitter.com/postmodernKatze/status/1210449524751159296?s=20](https://twitter.com/postmodernKatze/status/1210449524751159296?s=20){:target="_blank", :rel="noopener noreferrer"}
