@@ -12,4 +12,6 @@ exclude:
 - build.sh
 - Gemfile*
 theme_config:
+  appearance: auto
   back_home_text: home
+goat_counter: 5hubh4m
