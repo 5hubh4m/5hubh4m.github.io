@@ -16,15 +16,15 @@ I'm about to start my PhD at the department of _Computer and Information Science
 
 I am a _Research Fellow_ in the Systems Group[^2] at _Microsoft Research_ working on Project Gandiva[^3].
 
-I completed my undergraduate studies at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where I graduated top of my class[^4].
-
 ----
 {: data-content=" what I've done "}
+
+I completed my undergraduate studies at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where I graduated top of my class[^4].
 
 I have worked with languages like `Scala, C, C++, Haskell, Python, C#, Java`, and technologies like `CUDA, Kubernetes, Docker, Android, LaTeX, MATLAB, *nix`. 
 
 ----
-{: data-content=" what I like other than research "}
+{: data-content=" other than research "}
 
 In my free time I read Sci-Fi and Fantasy, listen to Trance and House[^5] music, and post and read Tweets[^6].
 
