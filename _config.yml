@@ -10,3 +10,6 @@ exclude:
 - LICENSE
 - README.md
 - build.sh
+- Gemfile*
+theme_config:
+  back_home_text: home

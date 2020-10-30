@@ -2,12 +2,8 @@
     {% for item in include.collection %}
       <li>
         <h4><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a></h4>
+        <pre><code>{{ item.languages | join: ", " }}</code></pre>   
         <p>{{ item.description }}</p>
-        <ul>
-          {% for prop in item.languages %}
-            <li><small>{{ prop }}</small></li>
-          {% endfor %}
-        </ul>
       </li>
     {% endfor %}
 </ul>

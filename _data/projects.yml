@@ -13,8 +13,7 @@ entries:
   url: https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns/
   languages:
   - Systems for Deep Learning
-  - Scala
-  - Kubernetes
+  - Resource Management
   description: >-
     Gandiva is a Cluster Scheduler for Deep Learning utilising CPU Scheduling-like
     primitives eg. timeslicing at minute-scales, and migration to schedule GPUs 
