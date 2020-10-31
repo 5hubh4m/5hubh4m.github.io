@@ -2,9 +2,9 @@
     {% for item in include.collection %}
         <li>
             {% if item.url %}
-                <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+                <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a> @ {{ item.where }}
             {% else %}
-                {{ item.name }}
+                {{ item.name }} @ {{ item.where }}
             {% endif %}
         </li>
     {% endfor %}

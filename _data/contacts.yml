@@ -1,9 +1,12 @@
 entries:
-- name: '[first name] [last name] @ outlook.com'
-- name: '[initials] 2937 @ cornell.edu'
-- name: 5hubh4m @ github
+- name: 5hubh4m
+  where: github
   url:  https://github.com/5hubh4m
-- name: postmodernKatze @ twitter
-  url: https://twitter.com/postmodernKatze
-- name: 5hubh4m @ linkedin
+- name: 5hubh4m
+  where: linkedin
   url:  https://www.linkedin.com/in/5hubh4m
+- name: postmodernKatze
+  where: twitter
+  url: https://twitter.com/postmodernKatze
+- name: '[first name] [last name]'
+  where: outlook.com
