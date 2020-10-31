@@ -7,7 +7,7 @@ permalink: /
 ----
 {: data-content=" who I am "}
 
-Hey, there! I'm Shubham Chaudhary. I'm an aspiring researcher interested in Operating Systems, Parallel and Distributed Systems, and High Performance Computing.
+Hey, there! I'm an aspiring researcher interested in Operating Systems, Parallel and Distributed Systems, and High Performance Computing.
 
 ----
 {: data-content=" what I'm doing "}
@@ -21,14 +21,14 @@ I am a _Research Fellow_ in the Systems Group[^2] at _Microsoft Research_ workin
 
 I completed my undergraduate studies at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where I graduated top of my class[^4].
 
-I have worked with languages like `Scala, C, C++, Haskell, Python, C#, Java`, and technologies like `CUDA, Kubernetes, Docker, Android, LaTeX, MATLAB, *nix`. 
+I have worked with languages like `Scala, C, C++, Haskell, Python, C#, Java`, and technologies like `CUDA, Kubernetes, Docker, Android, LaTeX, MATLAB, *nix`.
 
 ----
 {: data-content=" other than research "}
 
 In my free time I read Sci-Fi and Fantasy, listen to Trance and House[^5] music, and post and read Tweets[^6].
 
----
+----
 {: data-content=" footnotes "}
 
 [^1]: [http://www.cs.cornell.edu/~ragarwal/](http://www.cs.cornell.edu/~ragarwal/){:target="_blank", :rel="noopener noreferrer"}

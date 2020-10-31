@@ -1,10 +1,10 @@
 <ul>
     {% for item in include.collection %}
-      <li>
-        <h2>{{ item.title }}</h2>
-        <p>{{ item.authors | join: ", " }}</p>
-        <p>In <em>{{ item.venue }}</em>, {{ item.year }} <strong>[{{ item.alias }}]</strong></p>
-        <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.url }}</a></p>
-      </li>
+        <li>
+            <h2>{{ item.title }}</h2>
+            <p>{{ item.authors | join: ", " }}</p>
+            <p>In <em>{{ item.venue }}</em>, {{ item.year }} <strong>[{{ item.alias }}]</strong></p>
+            <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.url }}</a></p>
+        </li>
     {% endfor %}
 </ul>

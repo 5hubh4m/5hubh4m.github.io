@@ -1,9 +1,9 @@
 <ul>
     {% for item in include.collection %}
-      <li>
-        <h4><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a></h4>
-        <p><code>{{ item.languages | join: ", " }}</code></p>   
-        <p>{{ item.description }}</p>
-      </li>
+        <li>
+            <h4><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a></h4>
+            <p><code>{{ item.languages | join: ", " }}</code></p>
+            <p>{{ item.description }}</p>
+        </li>
     {% endfor %}
 </ul>

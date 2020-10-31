@@ -3,11 +3,8 @@ entries:
   url: projects
 - title: publications
   url: publications
-- title: resume/cv
-  url: resume.pdf
+- title: cv
+  url: cv.pdf
   newTab: true
-- title: email
-  url: mailto:shubhamchaudhary@outlook.com
-- title: twitter
-  url: https://twitter.com/postmodernKatze
-  newTab: true
+- title: contacts
+  url: contacts

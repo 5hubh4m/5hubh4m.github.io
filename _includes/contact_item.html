@@ -1,0 +1,11 @@
+<ul>
+    {% for item in include.collection %}
+        <li>
+            {% if item.url %}
+                <a href="{{ item.url }}" {% if item.newTab == true %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.name }}</a>
+            {% else %}
+                {{ item.name }}
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>

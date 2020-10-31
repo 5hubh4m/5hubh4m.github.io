@@ -1,4 +1,4 @@
-title: 5hubh4m
+title: shubham chaudhary
 email: shubhamchaudhary1996@gmail.com
 description: >-
   Hey, there. This is Shubham Chaudhary, and this is
@@ -15,7 +15,7 @@ exclude:
 - Gemfile*
 theme_config:
   appearance: auto
-  back_home_text: ..
+  back_home_text: home
 goat_counter: 5hubh4m
 whitelist:
 - jekyll-seo-tag

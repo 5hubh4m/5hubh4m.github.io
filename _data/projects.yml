@@ -17,7 +17,7 @@ entries:
   - Resource Management
   description: >-
     Gandiva is a Cluster Scheduler for Deep Learning utilising CPU Scheduling-like
-    primitives eg. timeslicing at minute-scales, and migration to schedule GPUs 
+    primitives eg. timeslicing at minute-scales, and migration to schedule GPUs
     efficiently by providing coarse-grained GPU sharing across jobs.
 - name: ltdp-viterbi-algorithm
   url: https://github.com/5hubh4m/ltdp-viterbi-algorithm
