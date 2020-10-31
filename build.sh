@@ -1,6 +1,6 @@
 #!/bin/bash
 TMP=$(mktemp -d)
-bundle exec jekyll b --safe
+JEKYLL_ENV=production bundle exec jekyll b --safe
 cp -r _site/. $TMP
 cd $TMP
 git init
