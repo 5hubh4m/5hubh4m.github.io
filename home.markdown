@@ -12,12 +12,12 @@ Hey, there! I'm an aspiring researcher interested in Operating Systems, Parallel
 ----
 {: data-content=" what I'm doing "}
 
-I'm about to start my PhD at the department of _Computer and Information Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!) working with Dr. Rachit Agarwal[^1].
-
-I am a _Research Fellow_ in the Systems Group[^2] at _Microsoft Research_ working on Project Gandiva[^3].
+I started my PhD at the department of _Computer and Information Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!) working with Dr. Rachit Agarwal[^1].
 
 ----
 {: data-content=" what I've done "}
+
+I was a _Research Fellow_ in the Systems Group[^2] at _Microsoft Research_ where I worked on Project Gandiva[^3].
 
 I completed my undergraduate studies at the _Indian Institute of Technology (BHU) Varanasi_ majoring in _Computer Science_, where I graduated top of my class[^4].
 
