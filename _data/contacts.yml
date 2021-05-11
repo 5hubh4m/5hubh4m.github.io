@@ -8,5 +8,7 @@ entries:
 - name: postmodernKatze
   where: twitter
   url: https://twitter.com/postmodernKatze
-- name: '[first name] [last name]'
+- name: '[first name][last name]'
   where: outlook.com
+- name: '[first name]'
+  where: cs.cornell.edu

@@ -4,6 +4,6 @@ title: 404
 layout: post
 ---
 
-**Page not found :(**
+**page not found :(**
 
 The requested page could not be found
