@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 .bundle
 .DS_Store
+*.swp
+*.swo

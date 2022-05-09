@@ -1,4 +1,15 @@
 entries:
+- title: Understanding Host Network Stack Overheads
+  url: https://dl.acm.org/doi/abs/10.1145/3452296.3472888
+  authors:
+  - Qizhe Cai
+  - <b>Shubham Chaudhary</b>
+  - Midhul Vuppalapati
+  - Jaehyun Hwang
+  - Rachit Agarwal
+  venue: Proceedings of the ACM Special Interest Group on Data Communication
+  year: 2021
+  alias: "SIGCOMM '21"
 - title: Balancing Efficiency and Fairness in Heterogeneous GPU Clusters for Deep Learning
   url: https://dl.acm.org/doi/abs/10.1145/3342195.3387555
   authors:
@@ -9,4 +20,4 @@ entries:
   - Srinidhi Viswanatha
   venue: Proceedings of the Fifteenth European Conference on Computer Systems
   year: 2020
-  alias: EuroSys '20
+  alias: "EuroSys '20"

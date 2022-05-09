@@ -1,4 +1,18 @@
 entries:
+- name: Understanding Host Network Stack Overheads 
+  url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
+  languages:
+  - Systems
+  - Networking
+  description: >-
+    Adoption of high-bandwidth access links (100 Gbps and beyond) in the data center
+    has led to a shift in the bottlnecks from the network core to end-host processing.
+    We perform exhaustive benchmarking of the Linux network stack and analyse several
+    metrics like throughput, CPU utilisation, cache miss rate, to understand (1) the
+    impact on offloads present in commodity NICs on performance, and (2) the causes of
+    overheads in the existing network stacks to provide recommendations for the design
+    of future transport protocols, network stacks, and network hardware.
+    <br/><br/>I talked about this project at <a href="https://netdevconf.info/0x15/session.html?Understanding-Linux-Network-Stack-Overheads-for-High-Speed-Networks">NetDev 0x15</a>.
 - name: Gandiva<sub><em>fair</em></sub>
   url: https://www.microsoft.com/en-us/research/publication/balancing-efficiency-and-fairness-in-heterogeneous-gpu-clusters-for-deep-learning/
   languages:

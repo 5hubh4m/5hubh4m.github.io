@@ -5,9 +5,6 @@ entries:
 - name: 5hubh4m
   where: linkedin
   url:  https://www.linkedin.com/in/5hubh4m
-- name: postmodernKatze
-  where: twitter
-  url: https://twitter.com/postmodernKatze
 - name: '[first name][last name]'
   where: outlook.com
 - name: '[first name]'
