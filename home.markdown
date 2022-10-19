@@ -12,7 +12,7 @@ Hey, there! I'm a PhD student interested in Operating Systems, Parallel and Dist
 ----
 {: data-content=" what I'm doing "}
 
-I started my PhD at the department of _Computing and Information Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!). I am working with Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo].
+I started my PhD at the department of _Computer Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!). I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo].
 
 ----
 {: data-content=" what I've done "}
