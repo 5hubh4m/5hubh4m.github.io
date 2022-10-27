@@ -1,5 +1,20 @@
 entries:
-- name: Understanding Host Network Stack Overheads 
+- name: 'Ziplog: Fast and Scalable Distributed Shared Log'
+  languages:
+  - Distributed Systems
+  - RDMA
+  description: >-
+    Distributed Shared Log is a popular abstraction for building
+    consistent, high throughput and fault-tolerant distributed applications.
+    Existing protocols like Scalog provide scalability and high throughput,
+    but at the cost of high latency. Meanwhile, NoPaxos provides low latency but
+    at the cost of not being scalable (requiring a packet sequencer). Lastly, other
+    implementations like Kafka provide high throughput and low latency, at the
+    cost of not providing a global total order across partitions. Ziplog bridges
+    the gap using a new kind of consensus protocol that achieves all three goals:
+    high throughput (i.e scalability), low latency, and total ordering while
+    being crash fault-tolerant.
+- name: Understanding Host Network Stack Overheads
   url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
   languages:
   - Systems
@@ -9,8 +24,8 @@ entries:
     has led to a shift in the bottlnecks from the network core to end-host processing.
     We perform exhaustive benchmarking of the Linux network stack and analyse several
     metrics like throughput, CPU utilisation, cache miss rate, to understand (1) the
-    impact on offloads present in commodity NICs on performance, and (2) the causes of
-    overheads in the existing network stacks to provide recommendations for the design
+    impact of offloads present in commodity NICs on performance, and (2) the causes of
+    overheads in the existing network stacks; and provide recommendations for the design
     of future transport protocols, network stacks, and network hardware.
     <br/><br/>I talked about this project at <a href="https://netdevconf.info/0x15/session.html?Understanding-Linux-Network-Stack-Overheads-for-High-Speed-Networks">NetDev 0x15</a>.
 - name: Gandiva<sub><em>fair</em></sub>
