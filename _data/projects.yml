@@ -1,5 +1,5 @@
 entries:
-- name: 'Ziplog: Fast and Scalable Distributed Shared Log'
+- name: Coordination-Free Distributed Shared Log
   languages:
   - Distributed Systems
   - RDMA
@@ -10,10 +10,10 @@ entries:
     but at the cost of high latency. Meanwhile, NoPaxos provides low latency but
     at the cost of not being scalable (requiring a packet sequencer). Lastly, other
     implementations like Kafka provide high throughput and low latency, at the
-    cost of not providing a global total order across partitions. Ziplog bridges
+    cost of not providing a global total order across partitions. Our protocol bridges
     the gap using a new kind of consensus protocol that achieves all three goals:
     high throughput (i.e scalability), low latency, and total ordering while
-    being crash fault-tolerant.
+    being crash fault-tolerant by combining batching and pre-ordering.
 - name: Understanding Host Network Stack Overheads
   url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
   languages:

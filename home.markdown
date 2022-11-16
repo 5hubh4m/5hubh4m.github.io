@@ -12,7 +12,7 @@ Hey, there! I'm a third-year PhD student interested in Operating Systems, Parall
 ----
 {: data-content=" what I'm doing "}
 
-I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. I am working on Ziplog, a new kind of consensus protocol to build distributed shared logs.
+I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. I am working on a new kind of coordination-free protocol for a distributed shared log.
 
 ----
 {: data-content=" what I've done "}
