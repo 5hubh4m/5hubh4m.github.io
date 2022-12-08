@@ -34,7 +34,7 @@ In my free time I read Sci-Fi and Fantasy - I particularly love Brandon Sanderso
 {: data-content=" footnotes "}
 
 [^rvr]: [https://www.cs.cornell.edu/home/rvr/](https://www.cs.cornell.edu/home/rvr/)
-[^lorenzo]: [https://www.cs.cornell.edu/home/lorenzo/](https://www.cs.cornell.edu/home/lorenze/)
+[^lorenzo]: [https://www.cs.cornell.edu/lorenzo/](https://www.cs.cornell.edu/lorenzo/)
 [^rachit]: [https://www.cs.cornell.edu/~ragarwal/](https://www.cs.cornell.edu/~ragarwal/)
 [^msr]: [https://www.microsoft.com/en-us/research/theme/systems](https://www.microsoft.com/en-us/research/theme/systems){:target="_blank", :rel="noopener noreferrer"}
 [^endhost]: [https://dl.acm.org/doi/abs/10.1145/3452296.3472888](https://dl.acm.org/doi/abs/10.1145/3452296.3472888)
