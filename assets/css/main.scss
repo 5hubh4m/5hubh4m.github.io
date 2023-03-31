@@ -15,3 +15,9 @@ hr {
     font-size: smaller;
     font-style: italic;
 }
+
+@media (prefers-color-scheme: dark) {
+    .emoji {
+        filter: invert(1);
+    }
+}

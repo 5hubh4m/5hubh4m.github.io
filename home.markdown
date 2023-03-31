@@ -17,7 +17,7 @@ I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo
 ----
 {: data-content=" what I've done "}
 
-I started my PhD at the department of _Computer Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!). In my first year, I worked with Dr. Rachit Agarwal[^rachit] on identifying throughput bottlenecks in end-host network stacks[^endhost].
+I started my PhD at the department of _Computer Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!).
 
 From 2018 to 2020, I was a _Research Fellow_ in the Systems Group[^msr] at _Microsoft Research_ where I worked on Project Gandiva[^gandiva].
 
@@ -35,9 +35,7 @@ In my free time I read Sci-Fi and Fantasy - I particularly love Brandon Sanderso
 
 [^rvr]: [https://www.cs.cornell.edu/home/rvr/](https://www.cs.cornell.edu/home/rvr/)
 [^lorenzo]: [https://www.cs.cornell.edu/lorenzo/](https://www.cs.cornell.edu/lorenzo/)
-[^rachit]: [https://www.cs.cornell.edu/~ragarwal/](https://www.cs.cornell.edu/~ragarwal/)
 [^msr]: [https://www.microsoft.com/en-us/research/theme/systems](https://www.microsoft.com/en-us/research/theme/systems){:target="_blank", :rel="noopener noreferrer"}
-[^endhost]: [https://dl.acm.org/doi/abs/10.1145/3452296.3472888](https://dl.acm.org/doi/abs/10.1145/3452296.3472888)
 [^gandiva]: [https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns](https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns){:target="_blank", :rel="noopener noreferrer"}
 [^top]: [https://iitbhu.ac.in/contents/institute/academics/convocations/doc/medal_recipient_2018.pdf](https://iitbhu.ac.in/contents/institute/academics/convocations/doc/medal_recipient_2018.pdf){:target="_blank", :rel="noopener noreferrer"}
 [^cosmere]: [https://www.brandonsanderson.com/what-is-the-cosmere/](https://www.brandonsanderson.com/what-is-the-cosmere/)
