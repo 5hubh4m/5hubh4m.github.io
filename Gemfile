@@ -1,4 +1,3 @@
 source "https://rubygems.org"
-
-gem "jekyll"
-gem "no-style-please", "~> 0.3.1"
+gem 'no-style-please', '~> 0.4.7'
+gem 'kramdown-parser-gfm'

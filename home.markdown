@@ -28,7 +28,7 @@ I have worked with languages like `Scala, C, C++, Haskell, Python, C#, Java`, an
 ----
 {: data-content=" other than research "}
 
-In my free time I read Sci-Fi and Fantasy - I particularly love Brandon Sanderson's Cosmere[^cosmere], and listen to Trance and House music.
+In my free time I read Sci-Fi and Fantasy - I particularly love the Cosmere[^cosmere], and listen to Trance and House music.
 
 ----
 {: data-content=" footnotes "}
