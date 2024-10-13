@@ -12,7 +12,7 @@ Hey, there! I'm a third-year PhD student interested in Operating Systems, Parall
 ----
 {: data-content=" what I'm doing "}
 
-I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. I am working on a new kind of coordination-free protocol for a distributed shared log.
+I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. Right now I am exploring the limits of two-sided RDMA systems, ideating new paradigms to help developers build one-sided RDMA applications, and designing novel consensus protocols that can take advantage of modern networking hardware's bandwidths and latency.
 
 ----
 {: data-content=" what I've done "}

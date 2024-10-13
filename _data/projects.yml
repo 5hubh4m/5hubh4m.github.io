@@ -1,19 +1,25 @@
 entries:
-- name: Coordination-Free Distributed Shared Log
+- name: 'Fast Replica Coordination with <font style="font-variant-caps: small-caps">Zip</font>'
   languages:
   - Distributed Systems
   - RDMA
+  - Consensus
+  - SMR
   description: >-
-    Distributed Shared Log is a popular abstraction for building
-    consistent, high throughput and fault-tolerant distributed applications.
-    Existing protocols like Scalog provide scalability and high throughput,
-    but at the cost of high latency. Meanwhile, NoPaxos provides low latency but
-    at the cost of not being scalable (requiring a packet sequencer). Lastly, other
-    implementations like Kafka provide high throughput and low latency, at the
-    cost of not providing a global total order across partitions. Our protocol bridges
-    the gap using a new kind of consensus protocol that achieves all three goals:
-    high throughput (i.e scalability), low latency, and total ordering while
-    being crash fault-tolerant by combining batching and pre-ordering.
+    State Machine Replication (SMR) is an essential abstraction for building
+    reliable distributed applications. Existing protocols that implement SMR
+    have high-overheads in terms of both throughput and latency, preventing
+    efficient utilization of modern data center networking hardware. We propose
+    a new protocol, <font style="font-variant-caps: small-caps">Zip</font>, that
+    provides the same abstraction as SMR to the clients of a replicated service,
+    but performs replication in 1-RTT in the absence of failures and asynchrony,
+    using a combination of speculative agreement and off-path ordering. We also
+    built two applications, <font style="font-variant-caps: small-caps">Ziplog</font>,
+    a shared log that provides high-throughput and low-latency and
+    <font style="font-variant-caps: small-caps">Zipkvs</font>, a state-of-the-art
+    transactional key-value store that use <font style="font-variant-caps: small-caps">Zip</font>
+    as the underlying replication protocol.
+    <br/><br/>This work is under submission at NSDI '25.
 - name: Understanding Host Network Stack Overheads
   url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
   languages:
@@ -28,6 +34,7 @@ entries:
     overheads in the existing network stacks; and provide recommendations for the design
     of future transport protocols, network stacks, and network hardware.
     <br/><br/>I talked about this project at <a href="https://netdevconf.info/0x15/session.html?Understanding-Linux-Network-Stack-Overheads-for-High-Speed-Networks">NetDev 0x15</a>.
+    It was also published at <a href="publications">SIGCOMM '21</a>.
 - name: Gandiva<sub><em>fair</em></sub>
   url: https://www.microsoft.com/en-us/research/publication/balancing-efficiency-and-fairness-in-heterogeneous-gpu-clusters-for-deep-learning/
   languages:
@@ -39,6 +46,7 @@ entries:
     provide cluster level fair share of GPU throughput. It also uses differential speedups
     obtained by different models on heterogeneous GPU architectures and an automatic
     trading policy based on second-price auctions to improve overall cluster throughput.
+    <br/><br/>This work was published at <a href="publications">EuroSys '20</a>.
 - name: Gandiva
   url: https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns/
   languages:
