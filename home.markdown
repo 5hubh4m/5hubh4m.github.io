@@ -7,17 +7,14 @@ permalink: /
 ----
 {: data-content=" who I am "}
 
-Hey, there! I'm a third-year PhD student interested in Operating Systems, Parallel and Distributed Systems, and High Performance Computing.
-
-----
-{: data-content=" what I'm doing "}
-
-I am co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. Right now I am exploring the limits of two-sided RDMA systems, ideating new paradigms to help developers build one-sided RDMA applications, and designing novel consensus protocols that can take advantage of modern networking hardware's bandwidths and latency.
+Hey, there! I am a Member of Technical Staff at Cockroach Labs interested in Operating Systems, Datacenter Networking, and Distributed Systems.
 
 ----
 {: data-content=" what I've done "}
 
-I started my PhD at the department of _Computer Science_ at _Cornell University_ in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!).
+I finished my PhD at department of _Computer Science_ at _Cornell University_ in December 2025. I was fortunate to be co-advised by Dr. Robbert van Renesse[^rvr] and Dr. Lorenzo Alvisi[^lorenzo]. My thesis was on the design of fault-tolerant RDMA systems. I invented novel replication protocols that can take advantage of modern networking hardware's high-bandwidths and low-latency.
+
+I started my PhD in ~~Fall 2020~~ Spring 2021 (thanks, COVID19!).
 
 From 2018 to 2020, I was a _Research Fellow_ in the Systems Group[^msr] at _Microsoft Research_ where I worked on Project Gandiva[^gandiva].
 

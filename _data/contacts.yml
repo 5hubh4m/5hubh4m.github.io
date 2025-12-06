@@ -1,9 +1,10 @@
 entries:
-- name: 301 Gates Hall
-  where: Cornell University, Ithaca, NY
 - name: 5hubh4m
   where: github
   url:  https://github.com/5hubh4m
+- name: 5hubh4m
+  where: linkedin
+  url: https://www.linkedin.com/in/5hubh4m/
 - name: '[first name][last name]'
   where: outlook.com
 - name: '[first name]'

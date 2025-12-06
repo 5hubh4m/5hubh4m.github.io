@@ -1,4 +1,16 @@
 entries:
+- name: 'Higher Level Abstractions for One-Sided RDMA Applications'
+  languages:
+  - Distributed Systems
+  - RDMA
+  - Data Center
+  description: >-
+    RDMA has emerged as a likey contender for tackling the widening gap
+    between single-core CPU performance and data center networking interconnect
+    bandwidth. However, the mismatch between low-level RDMA operations (READ, CAS)
+    and high-level distributed application requirements (fault-tolerance, linearizability)
+    makes it hard to efficiently utilize RDMA and unlock it's full performance advantages.
+    In this project, we propose higher level abstractions for RDMA that bridge this gap.
 - name: 'Fast Replica Coordination with <font style="font-variant-caps: small-caps">Zip</font>'
   languages:
   - Distributed Systems
@@ -19,7 +31,7 @@ entries:
     <font style="font-variant-caps: small-caps">Zipkvs</font>, a state-of-the-art
     transactional key-value store that use <font style="font-variant-caps: small-caps">Zip</font>
     as the underlying replication protocol.
-    <br/><br/>This work is under submission at NSDI '25.
+    <br/><br/>This work is under submission at EuroSys '26.
 - name: Understanding Host Network Stack Overheads
   url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
   languages:
@@ -35,27 +47,21 @@ entries:
     of future transport protocols, network stacks, and network hardware.
     <br/><br/>I talked about this project at <a href="https://netdevconf.info/0x15/session.html?Understanding-Linux-Network-Stack-Overheads-for-High-Speed-Networks">NetDev 0x15</a>.
     It was also published at <a href="publications">SIGCOMM '21</a>.
-- name: Gandiva<sub><em>fair</em></sub>
+- name: Gandiva
   url: https://www.microsoft.com/en-us/research/publication/balancing-efficiency-and-fairness-in-heterogeneous-gpu-clusters-for-deep-learning/
   languages:
   - Systems for Deep Learning
   - Scheduling
   - Fairness
   description: >-
-    Gandiva<sub><em>fair</em></sub> is a scheduler built on top of Gandiva to
-    provide cluster level fair share of GPU throughput. It also uses differential speedups
-    obtained by different models on heterogeneous GPU architectures and an automatic
-    trading policy based on second-price auctions to improve overall cluster throughput.
-    <br/><br/>This work was published at <a href="publications">EuroSys '20</a>.
-- name: Gandiva
-  url: https://www.microsoft.com/en-us/research/project/gandiva-scheduler-for-dnns/
-  languages:
-  - Systems for Deep Learning
-  - Resource Management
-  description: >-
     Gandiva is a Cluster Scheduler for Deep Learning utilising CPU Scheduling-like
     primitives eg. timeslicing at minute-scales, and migration to schedule GPUs
-    efficiently by providing coarse-grained GPU sharing across jobs.
+    efficiently by providing coarse-grained GPU sharing across jobs. Gandiva<sub><em>fair</em></sub>
+    is a scheduler built on top of Gandiva to provide cluster level fair share of GPU throughput.
+    It also uses differential speedups obtained by different models on heterogeneous GPU architectures and an automatic
+    trading policy based on second-price auctions to improve overall cluster throughput.
+    <br/><br/>This work was published at <a href="publications">EuroSys '20</a>. This research
+    was also incorporated in <a href="https://www.microsoft.com/en-us/research/publication/singularity-planet-scale-preemptive-and-elastic-scheduling-of-ai-workloads/">Microsoft's Project Singularity<a/>.
 - name: ltdp-viterbi-algorithm
   url: https://github.com/5hubh4m/ltdp-viterbi-algorithm
   languages:
@@ -89,13 +95,3 @@ entries:
   - Programming Language
   description: >-
     A simple Scheme (R5RS) implementation in Haskell.
-- name: publications_portal
-  url: https://github.com/5hubh4m/publications_portal
-  languages:
-  - Python
-  - Django
-  - HTML
-  - CSS
-  - JavaScript
-  description: >-
-    A Publication Portal (IMS) written in Django and Python.
