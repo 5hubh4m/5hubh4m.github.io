@@ -12,6 +12,7 @@ exclude:
 - README.md
 - build.sh
 - Gemfile*
+- vendor
 theme_config:
   appearance: auto
   back_home_text: home
