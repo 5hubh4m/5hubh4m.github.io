@@ -3,7 +3,7 @@
         <li>
             <h2>{{ item.title }}</h2>
             <p>{{ item.authors | join: ", " }}</p>
-            <p>In <em>{{ item.venue }}</em>, {{ item.year }} <strong>[{{ item.alias }}]</strong></p>
+            <p>In <em>{{ item.venue }}</em>, {{ item.year }}{% if item.alias %} <strong>[{{ item.alias }}]</strong>{% endif %}</p>
             <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.url }}</a></p>
         </li>
     {% endfor %}

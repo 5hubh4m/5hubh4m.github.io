@@ -1,4 +1,10 @@
 entries:
+- title: Client-Driven Protocols for Low-Latency Replication With RDMA
+  url: https://www.proquest.com/docview/3354986483
+  authors:
+  - <b>Shubham Chaudhary</b>
+  venue: ProQuest Dissertations and Theses
+  year: 2026
 - title: Understanding Host Network Stack Overheads
   url: https://dl.acm.org/doi/abs/10.1145/3452296.3472888
   authors:

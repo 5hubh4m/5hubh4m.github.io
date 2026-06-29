@@ -31,7 +31,7 @@ entries:
     <font style="font-variant-caps: small-caps">Zipkvs</font>, a state-of-the-art
     transactional key-value store that use <font style="font-variant-caps: small-caps">Zip</font>
     as the underlying replication protocol.
-    <br/><br/>This work is under submission at EuroSys '26.
+    <br/><br/>This work is under submission at EuroSys '27.
 - name: Understanding Host Network Stack Overheads
   url: https://github.com/Terabit-Ethernet/terabit-network-stack-profiling
   languages:

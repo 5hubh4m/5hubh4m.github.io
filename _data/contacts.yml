@@ -5,6 +5,8 @@ entries:
 - name: 5hubh4m
   where: linkedin
   url: https://www.linkedin.com/in/5hubh4m/
+- name: '[first name].[last name]'
+  where: cockroachlabs.com
 - name: '[first name][last name]'
   where: outlook.com
 - name: '[first name]'
