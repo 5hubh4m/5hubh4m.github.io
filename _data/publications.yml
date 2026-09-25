@@ -1,4 +1,19 @@
 entries:
+- title: Linearizable Shared Log API Considered Harmful
+  url: https://doi.org/10.1145/3842654.3848584
+  authors:
+    - <b>Shubham Chaudhary</b>*
+    - Yu-Ju Huang*
+    - Rafael Soares*
+    - Shir Cohen Gahtan
+    - Sabrina Johnson
+    - Arnav Kaul
+    - Lorenzo Alvisi
+    - Luis Rodrigues
+    - Robbert van Renesse
+  venue: Proceedings of the Twenty Second European Conference on Computer Systems
+  year: 2027
+  alias: "EuroSys '27"
 - title: Client-Driven Protocols for Low-Latency Replication With RDMA
   url: https://www.proquest.com/docview/3354986483
   authors:
